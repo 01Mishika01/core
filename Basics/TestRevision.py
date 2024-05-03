@@ -1,7 +1,7 @@
 '''import Revision
-Revision.add("Mishika","Kaur Narang")
-Revision.update("Ishika"," Kaur Narang")'''
+Revision.add("a","b")
+Revision.update("x","y")'''
 
 from Revision import *
-add("Mishika","Kaur Narang")
-update("Ishika"," Kaur Narang")
+add("c","d")
+update("v","w")
