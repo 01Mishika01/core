@@ -1,11 +1,11 @@
 import UserService
-UserService.add("Mishika","Narang")
-UserService.update("Ishika","Kaur")
+UserService.add("a","b")
+UserService.update("x","y")
 
 ##Or method
 from UserService import *
-add("Mishika","Narang")
-update("Ishika","Kaur")
+add("c","d")
+update("v","w")
 
 
 ##Maths
