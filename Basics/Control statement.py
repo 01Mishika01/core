@@ -9,7 +9,7 @@ else:
 
 '''num1 = input("Enter the first number:")
 num2 = input("Enter the second number:")
-if (num1 > num2):                                                          ERROR
+if (num1 > num2):                                                          
     print("The max of",num1,"and",num2,"is",num1)
 else:
     print("The max of", num1, "and", num2, "is", num2)'''
@@ -53,7 +53,7 @@ for i in s:
     while i % 2 == 0:
          if i == 50:
             break
-         print(i)                                 ERROR to print no divisible by 2 but less than 50
+         print(i)                                 
          i = i + 2'''
 
 '''for i in range(0, 100):
