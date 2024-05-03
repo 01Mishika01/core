@@ -44,7 +44,7 @@ print(l1)'''
 print(len(t))'''
 
 '''del(t[1])
-print(t)   '''                               '''Error'''
+print(t)   '''                               
 
 '''t1 = (1, 2, 3, 4)
 t2 = (5, 6, 7, 8)
@@ -53,7 +53,7 @@ print(t3)
 
 t3 = min(t1,t2)
 print(t3)
-print(t1[2:3]) '''                              '''Error'''
+print(t1[2:3]) '''                             
 
 # Dictionary
 D = {"One": 1, "Two": 2, "Three": 3}
@@ -61,11 +61,11 @@ D = {"One": 1, "Two": 2, "Three": 3}
 print(D.values())
 print(D.copy())
 print(D.get("Three"))'''
-'''print(D.clear()) '''                                '''Error'''
+'''print(D.clear()) '''                                
 '''print(len(D))'''
 
 '''T1=(10,50,20,9,40,25,60,30,1,56)
-print(T1[2:4])   '''                                    """Slicing done in tuple"""
+print(T1[2:4])   '''                                   
 
 '''T1 = (10, 50, 20, 9, 40, 25, 60, 30, 1, 56)
 print(T1[6:])
